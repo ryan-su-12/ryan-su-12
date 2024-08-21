@@ -8,8 +8,10 @@ Right now, I'm focusing on getting a deeper understand on Back-end Development, 
 
 #### 💬Experience
 ---
-- 🌱 Intern at Scotiabank as a Software Engineering Intern under Global Cash Management
+- 💲 Intern at Scotiabank as a Software Engineering Intern under Global Cash Management
 - 🔭 Director of Reinforcmenet Learning and Finance at QMIND, Canada's largest undergraduate AI club
+- 🌱 Intern at Emkao Foods Inc as a Software Developer
+- 🧏 Software Developer at LEWK
 
 #### 📫Contact 
 --- 
@@ -17,7 +19,7 @@ Right now, I'm focusing on getting a deeper understand on Back-end Development, 
 - Email:     ryan.su@queensu.ca
 - Portfolio: https://ryan-su-12.github.io/
 
-#### ✨Resume
+#### 📄Resume
 ---
 Here is a copy of my most up to date resume
 - [Ryan Z Su Resume.pdf](https://github.com/user-attachments/files/16696175/Ryan.Z.Su.Resume.pdf)
