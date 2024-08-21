@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi I'm Ryan  👋
 
+#### About Me
+---
+I'm a 3rd year Computer Engineering University Student at Queen's University, where I plan on specializing in Artifical Intelligence 
 <!--
 **ryan-su-12/ryan-su-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
