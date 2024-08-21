@@ -11,6 +11,14 @@ Right now, I'm focusing on getting a deeper understand on Back-end Development, 
 🌱 Intern at Scotiabank as a Software Engineering Intern under Global Cash Management
 🔭 Director of Reinforcmenet Learning and Finance at QMIND, Canada's largest undergraduate AI club
 
+#### Contact
+--- 
+LinkedIn:  https://www.linkedin.com/in/ryan-z-su/
+Email:     ryan.su@queensu.ca
+Portfolio: https://ryan-su-12.github.io/
+
+
+
 
 <!--
 **ryan-su-12/ryan-su-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
