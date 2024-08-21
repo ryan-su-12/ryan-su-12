@@ -10,7 +10,7 @@ Right now, I'm focusing on getting a deeper understand on Back-end Development, 
 ---
 - 💲 Intern at Scotiabank as a Software Engineering Intern under Global Cash Management
 - 🔭 Director of Reinforcmenet Learning and Finance at QMIND, Canada's largest undergraduate AI club
-- 🌱 Intern at Emkao Foods Inc as a Software Developer
+- 🌱 Intern at Emkao Foods Inc as a Software Developer Intern
 - 🧏 Software Developer at LEWK
 
 #### 📫Contact 
