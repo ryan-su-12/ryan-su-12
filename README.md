@@ -13,9 +13,9 @@ Right now, I'm focusing on getting a deeper understand on Back-end Development, 
 
 #### Contact
 --- 
-LinkedIn:  https://www.linkedin.com/in/ryan-z-su/
-Email:     ryan.su@queensu.ca
-Portfolio: https://ryan-su-12.github.io/
+- LinkedIn:  https://www.linkedin.com/in/ryan-z-su/
+- Email:     ryan.su@queensu.ca
+- Portfolio: https://ryan-su-12.github.io/
 
 
 
