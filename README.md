@@ -17,6 +17,12 @@ Right now, I'm focusing on getting a deeper understand on Back-end Development, 
 - Email:     ryan.su@queensu.ca
 - Portfolio: https://ryan-su-12.github.io/
 
+#### Resume
+---
+Here is a copy of my most up to date resume
+[Ryan Z Su Resume.pdf](https://github.com/user-attachments/files/16696175/Ryan.Z.Su.Resume.pdf)
+
+
 
 
 
