@@ -10,8 +10,8 @@ In my free time I like doing Muay Thai, Calisthenics, learning things, and eatin
 
 #### 💬Experience
 ---
-- 💲 Intern at Scotiabank as a Software Engineering Intern under Global Cash Management
 - 🔭 Director of Reinforcmenet Learning and Finance at QMIND, Canada's largest undergraduate AI club
+- 💲 ex.Intern at Scotiabank as a Software Engineering Intern under Global Cash Management
 - 🌱 ex.Intern at Emkao Foods Inc as a Software Developer Intern
 - 🧏 ex.Software Developer at LEWK
 
