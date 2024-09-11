@@ -24,7 +24,8 @@ In my free time I like doing Muay Thai, Calisthenics, learning things, and eatin
 #### 📄Resume
 ---
 Here is a copy of my most up to date resume
-- [Ryan Z Su Resume.pdf](https://github.com/user-attachments/files/16696175/Ryan.Z.Su.Resume.pdf)
+- [Ryan-Su-SWE-Fall.pdf](https://github.com/user-attachments/files/16971275/Ryan-Su-SWE-Fall.pdf)
+
 
 
 
