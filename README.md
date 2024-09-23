@@ -6,7 +6,7 @@ I'm a 3rd year Computer Engineering University Student at Queen's University, wh
 
 Right now, I'm focusing on getting a deeper understand on Back-end Development, specifically with SpringBoot, and Reinforcement learning with it's applications in Finance.
 
-In my free time I like doing Muay Thai, Calisthenics, learning things, and eating shawarma.
+In my free time I like doing Muay Thai, Wrestling, Calisthenics, learning things, and eating shawarma.
 
 #### 💬Experience
 ---
