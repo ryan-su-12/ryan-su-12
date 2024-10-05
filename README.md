@@ -27,7 +27,9 @@ Here is a copy of my most up to date resume
 - [Ryan-Su-SWE-Fall.pdf](https://github.com/user-attachments/files/16971275/Ryan-Su-SWE-Fall.pdf)
 
 
-
+#### Stats
+---
+[![Ryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-su-12)](https://github.com/ryan-su-12/github-readme-stats)
 
 
 
