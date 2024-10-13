@@ -24,7 +24,7 @@ In my free time I like doing MMA, Calisthenics, learning things, and eating shaw
 #### 📄Resume
 ---
 Here is a copy of my most up to date resume
-- [Ryan-Su-SWE-Fall.pdf](file:///C:/Users/rsu49/Downloads/Ryan-Su-SWE-2024.pdf)
+- file:///C:/Users/rsu49/Downloads/Ryan-Su-SWE-2024.pdf
 
 
 #### Stats
