@@ -4,7 +4,7 @@
 ---
 I'm a 3rd year Computer Engineering University Student at Queen's University, where I plan on specializing in Artifical Intelligence.
 
-Right now, I'm focusing on getting a deeper understand on Back-end Development, specifically with SpringBoot and Fastapi.
+Right now, I'm focusing on getting a deeper understand on Back-end Development, specifically with SpringBoot and Fastapi. I'm also diving deeper into generative ai
 
 In my free time I like doing MMA, Calisthenics, learning about history, and eating shawarma.
 
