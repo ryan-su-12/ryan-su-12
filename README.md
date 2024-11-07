@@ -8,10 +8,14 @@ In my free time I like doing MMA, Calisthenics, learning about history, reading,
 
 #### 💬Experience
 ---
-- 🔭 Director of Reinforcmenet Learning and Finance at QMIND, Canada's largest undergraduate AI club
+
 - 💲 ex.Intern at Scotiabank as a Software Engineering Intern under Global Cash Management
 - 🌱 ex.Intern at Emkao Foods Inc as a Software Developer Intern
 - 🧏 ex.Software Developer at LEWK
+
+- 🔭 Director of Reinforcmenet Learning and Finance at QMIND, Canada's largest undergraduate AI club
+- ✨ Front-end Developer for CUCAI 2025
+
 
 #### 📫Contact 
 --- 
