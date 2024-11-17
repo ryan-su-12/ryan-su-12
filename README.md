@@ -17,7 +17,6 @@ In my free time I like doing MMA, Calisthenics, learning about history, reading,
 - 🔭 Director of Reinforcmenet Learning and Finance at QMIND, Canada's largest undergraduate AI club
 - ✨ Front-end Developer for CUCAI 2025
 
-
 #### 📫Contact 
 --- 
 - LinkedIn:  https://www.linkedin.com/in/ryan-z-su/
