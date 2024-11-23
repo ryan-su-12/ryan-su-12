@@ -24,8 +24,9 @@ In my free time I like doing MMA, Calisthenics, learning about philosophy, readi
 - Portfolio: https://ryan-su-12.github.io/
 
 #### 📄Resume
----
-- [Ryan-Su-SWE-2024.pdf](https://github.com/user-attachments/files/17824685/Ryan-Su-SWE-2024.pdf)
+--
+- [Ryan Su Resume.pdf](https://github.com/user-attachments/files/17880244/Ryan.Su.Resume.pdf)
+
 
 
 #### Stats
