@@ -31,7 +31,8 @@ In my free time I like doing MMA, Calisthenics, learning about philosophy, readi
 
 #### Stats
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-su-12)](https://github.com/ryan-su-12/github-readme-stats)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-su-12&show_icons=true&theme=radical)
+
 
 
 <!--
