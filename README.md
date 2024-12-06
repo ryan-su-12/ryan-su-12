@@ -15,7 +15,7 @@ In my free time I like doing MMA, Calisthenics, learning about philosophy, readi
 - 🌱 ex.Intern at Emkao Foods Inc as a Software Developer Intern
 - 🧏 ex.Software Developer at LEWK
 - 🔭 Director of Reinforcmenet Learning and Finance at QMIND, Canada's largest undergraduate AI club
-- ✨ Front-end Developer for CUCAI 2025
+- ✨ Front-end Developer for CUCAI (Canadian Undergraduate Conference on Artifical Intelligence) 2025
 
 #### 📫Contact 
 --- 
