@@ -31,7 +31,6 @@ In my free time I like doing MMA, Calisthenics, learning about philosophy, readi
 
 #### Stats
 ---
-![Ryan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ryan-su-12&theme=dark&hide_border=true)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,react,nextjs,mongodb,fastapi,aws)](https://skillicons.dev)
 
