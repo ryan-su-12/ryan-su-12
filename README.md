@@ -4,7 +4,7 @@
 ---
 I'm a 3rd year Computer Engineering University Student at Queen's University, where I plan on specializing in Artifical Intelligence.
 
-Right now, I'm looking into Open Source Development in Kubernetes and AWS SDK.
+Right now, I'm looking into Open Source Development in Kubernetes and AWS SDK for Go.
 
 In my free time I like doing MMA, Calisthenics, learning about philosophy, reading, and eating shawarma.
 
