@@ -1,6 +1,6 @@
 ## Hi I'm Ryan Su 👋
 
-#### 😄About Me
+#### About Me
 ---
 I'm a 3rd year Computer Engineering University Student at Queen's University, where I plan on specializing in Artifical Intelligence.
 
@@ -8,7 +8,7 @@ Right now, I'm looking into Open Source Development in Kubernetes and AWS SDK fo
 
 In my free time I like doing MMA, Calisthenics, learning about philosophy, reading, and eating shawarma.
 
-#### 💬Past Experience
+#### Past Experience
 ---
 
 - Intern at Scotiabank as a Software Engineering Intern under Global Cash Management
@@ -17,13 +17,13 @@ In my free time I like doing MMA, Calisthenics, learning about philosophy, readi
 - Director of Reinforcement Learning and Finance at QMIND, Canada's largest undergraduate AI club
 - Front-end Developer for CUCAI (Canadian Undergraduate Conference on Artifical Intelligence) 2025
 
-#### 📫Contact 
+#### Contact 
 --- 
 - LinkedIn:  https://www.linkedin.com/in/ryan-z-su/
 - Email:     ryan.su@queensu.ca
 - Portfolio: https://ryan-su-12.github.io/
 
-#### 📄Resume
+#### Resume
 ---
 - [Resume Ryan 2025.pdf](https://github.com/user-attachments/files/18302662/Resume.Ryan.2025.pdf)
 
