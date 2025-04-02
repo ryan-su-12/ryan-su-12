@@ -8,14 +8,14 @@ Right now, I'm looking into Open Source Development in Kubernetes and AWS SDK fo
 
 In my free time I like doing MMA, Calisthenics, learning about philosophy, reading, and eating shawarma.
 
-#### 💬Experience
+#### 💬Past Experience
 ---
 
-- 💲 ex.Intern at Scotiabank as a Software Engineering Intern under Global Cash Management
-- 🌱 ex.Intern at Emkao Foods Inc as a Software Developer Intern
-- 🧏 ex.Software Developer at LEWK
-- 🔭 Director of Reinforcement Learning and Finance at QMIND, Canada's largest undergraduate AI club
-- ✨ Front-end Developer for CUCAI (Canadian Undergraduate Conference on Artifical Intelligence) 2025
+- Intern at Scotiabank as a Software Engineering Intern under Global Cash Management
+- Intern at Emkao Foods Inc as a Software Developer Intern
+- Software Developer at LEWK
+- Director of Reinforcement Learning and Finance at QMIND, Canada's largest undergraduate AI club
+- Front-end Developer for CUCAI (Canadian Undergraduate Conference on Artifical Intelligence) 2025
 
 #### 📫Contact 
 --- 
