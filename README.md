@@ -4,7 +4,7 @@
 ---
 I'm a 3rd year Computer Engineering University Student at Queen's University.
 
-Right now, I'm am working towards an AWS certification of Solutions Architects and am looking into Open Source Development in Kubernetes and AWS SDK for Go.
+Right now, I'm am working towards a Solutions Architect AWS certification and am looking into Open Source Development in Kubernetes and AWS SDK for Go.
 
 In my free time I like doing MMA, Calisthenics, learning about philosophy, reading, and eating shawarma.
 
