@@ -2,9 +2,9 @@
 
 #### About Me
 ---
-I'm a 3rd year Computer Engineering University Student at Queen's University, where I plan on specializing in Artifical Intelligence.
+I'm a 3rd year Computer Engineering University Student at Queen's University.
 
-Right now, I'm looking into Open Source Development in Kubernetes and AWS SDK for Go.
+Right now, I'm am working towards an AWS certification of Solutions Architects and am looking into Open Source Development in Kubernetes and AWS SDK for Go.
 
 In my free time I like doing MMA, Calisthenics, learning about philosophy, reading, and eating shawarma.
 
@@ -28,7 +28,7 @@ In my free time I like doing MMA, Calisthenics, learning about philosophy, readi
 - [Resume Ryan 2025.pdf](https://github.com/user-attachments/files/18302662/Resume.Ryan.2025.pdf)
 
 
-#### Stats
+#### Skills
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,react,nextjs,mongodb,fastapi,aws)](https://skillicons.dev)
