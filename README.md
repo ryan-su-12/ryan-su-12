@@ -8,9 +8,9 @@ Right now, I'm am working towards a Solutions Architect AWS certification and am
 
 In my free time I like doing MMA, Calisthenics, learning about philosophy, reading, and eating shawarma.
 
-#### Past Experience
+#### Experience
 ---
-
+- Intern at Manulife as a Cloud Software Engineering Intern under Global Data
 - Intern at Scotiabank as a Software Engineering Intern under Global Cash Management
 - Intern at Emkao Foods Inc as a Software Developer Intern
 - Software Developer at LEWK
