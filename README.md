@@ -23,11 +23,6 @@ In my free time I like doing MMA, Calisthenics, learning about philosophy, readi
 - Email:     ryan.su@queensu.ca
 - Portfolio: https://ryan-su-12.github.io/
 
-#### Resume
----
-- [Resume Ryan 2025.pdf](https://github.com/user-attachments/files/18302662/Resume.Ryan.2025.pdf)
-
-
 #### Skills
 ---
 
