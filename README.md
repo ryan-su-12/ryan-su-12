@@ -4,14 +4,17 @@
 ---
 I'm a 3rd year Computer Engineering University Student at Queen's University.
 
-Right now, I'm am working towards a Solutions Architect AWS certification and also looking into Open Source Development in Kubernetes and AWS SDK for Go.
+Right now, I'm am...
+- Working towards a Solutions Architect AWS certification
+- Apart of the release team at Kubernetes
 
-In my free time I like doing MMA, Calisthenics, learning about philosophy, reading, and eating shawarma.
+
+In my free time I like doing MMA, Calisthenics, learning about philosophy, reading, and eating pastrami sandwiches.
 
 #### Experience
 ---
-- Intern at Manulife as a Cloud Software Engineering Intern under Global Data
-- Intern at Scotiabank as a Software Engineering Intern under Global Cash Management
+- Intern at Manulife as a Software Engineering Intern under Global Data
+- Intern at Scotiabank as a Software Engineering Intern under Payments & Core Banking
 - Intern at Emkao Foods Inc as a Software Developer Intern
 - Software Developer at LEWK
 - Director of Reinforcement Learning and Finance at QMIND, Canada's largest undergraduate AI club
