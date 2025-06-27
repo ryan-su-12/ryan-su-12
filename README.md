@@ -5,8 +5,9 @@
 I'm a 3rd year Computer Engineering University Student at Queen's University.
 
 Right now, I'm am...
-- Working towards a Solutions Architect AWS certification
+- Apart of Meta x MLH
 - Apart of the release team at Kubernetes
+
 
 
 In my free time I like doing MMA, Calisthenics, learning about philosophy, reading, and eating pastrami sandwiches.
