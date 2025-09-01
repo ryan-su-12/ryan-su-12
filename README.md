@@ -14,7 +14,7 @@ In my free time I like doing MMA, Calisthenics, learning about philosophy, readi
 
 #### Experience
 ---
-- Incoming SWE @ Kinaxis
+- Software Engineering Intern @ Kinaxis
 - Intern at Manulife as a Software Engineering Intern under Global Data
 - Intern at Scotiabank as a Software Engineering Intern under Payments & Core Banking
 - Intern at Emkao Foods Inc as a Software Developer Intern
