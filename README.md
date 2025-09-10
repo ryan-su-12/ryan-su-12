@@ -15,12 +15,10 @@ In my free time I like doing MMA, Calisthenics, learning about philosophy, readi
 #### Experience
 ---
 - Software Engineering Intern @ Kinaxis
-- Intern at Manulife as a Software Engineering Intern under Global Data
-- Intern at Scotiabank as a Software Engineering Intern under Payments & Core Banking
-- Intern at Emkao Foods Inc as a Software Developer Intern
-- Software Developer at LEWK
-- Director of Reinforcement Learning and Finance at QMIND, Canada's largest undergraduate AI club
-- Front-end Developer for CUCAI (Canadian Undergraduate Conference on Artifical Intelligence) 2025
+- Prev SWE intern @ Manulife 
+- Prev SWE intern @ Scotiabank
+- ex.Director of Reinforcement Learning and Finance at QMIND, Canada's largest undergraduate AI club
+- ex.Front-end Developer for CUCAI (Canadian Undergraduate Conference on Artifical Intelligence) 2025
 
 #### Contact 
 --- 
