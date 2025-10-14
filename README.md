@@ -16,8 +16,6 @@ In my free time I like doing MMA, Calisthenics, learning about philosophy, readi
 - Software Engineering Intern @ Kinaxis
 - Prev SWE intern @ Manulife 
 - Prev SWE intern @ Scotiabank
-- ex.Director of Reinforcement Learning and Finance at QMIND, Canada's largest undergraduate AI club
-- ex.Front-end Developer for CUCAI (Canadian Undergraduate Conference on Artifical Intelligence) 2025
 
 #### Contact 
 --- 
