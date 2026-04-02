@@ -5,7 +5,7 @@
 I'm a 3rd year Computer Engineering University Student at Queen's University.
 
 Right now, I'm am...
-- Apart of the release team at Kubernetes
+- Horsing around in Vancouver 
 
 
 
