@@ -13,8 +13,8 @@ In my free time I like doing MMA, Calisthenics, learning about philosophy, readi
 
 #### Experience
 ---
-- Software Engineering Intern @ SAP
-- Prev SWE intern @ Kinaxis, Manulife, Scotiabank
+- Software Engineering Intern @ Questrade
+- Prev SWE intern @ SAP, Kinaxis, Manulife, Scotiabank
 
 #### Contact 
 --- 
