@@ -20,7 +20,7 @@ In my free time I like doing MMA, Calisthenics, learning about philosophy, readi
 --- 
 - LinkedIn:  https://www.linkedin.com/in/ryan-z-su/
 - Email:     ryan.su@queensu.ca
-- Portfolio: https://ryan-su-12.github.io/
+- Portfolio: https://ryanzsu.vercel.app/
 
 #### Skills
 ---
