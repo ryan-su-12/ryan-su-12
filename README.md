@@ -2,10 +2,10 @@
 
 #### About Me
 ---
-I'm a 3rd year Computer Engineering University Student at Queen's University.
+I'm a 5th year Computer Engineering University Student at Queen's University.
 
 Right now, I'm am...
-- Horsing around in Toronto
+- Horsing around in Kingston :/
 
 
 
